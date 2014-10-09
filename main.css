@@ -1,9 +1,9 @@
 html, body { background: #2baf2b; font-family: sans-serif; color: #FFF;margin: 0; height: auto; text-transform: uppercase;}
 h1 {font-size: 3em; }
 h3 {font-size: 1.5em;}
-#header {padding: 2%; padding-left: 8%; height: inherit; width: 100%;}
-a {display: block; line-height: 75px; font-size: 32px; text-decoration: none; padding-left: 10%; vertical-align: middle; width: 100%;}
+#header {padding: 2%; padding-left: 8%; height: inherit;}
+a {display: block; line-height: 75px; font-size: 32px; text-decoration: none; padding-left: 10%; vertical-align: middle;}
 a:link {color: #FFF;}
 a:active {color: #FFF;}
 a:visited {color: #FFF;}
-#heading {line-height: 75px; font-size: 32px; padding-left: 8%; width: 100%;}
+#heading {line-height: 75px; font-size: 32px; padding-left: 8%;}

@@ -1,9 +1,9 @@
-html, body { background: #3f51b5; font-family: sans-serif; color: #FFF;margin: 0;}
-h1 {font-size: 3em; text-align: center;}
-h3 {font-size: 1.5em; text-align: center;}
-#header {text-align: center; padding: 2%;}
-a {display: block; height: 50px; font-size: 32px; text-decoration: none; padding-left: 15%; vertical-align: middle;}
+html, body { background: #2baf2b; font-family: sans-serif; color: #FFF;margin: 0; height: auto; text-transform: uppercase;}
+h1 {font-size: 3em; }
+h3 {font-size: 1.5em;}
+#header {padding: 2%; padding-left: 8%; height: inherit;}
+a {display: block; line-height: 75px; font-size: 32px; text-decoration: none; padding-left: 10%; vertical-align: middle;}
 a:link {color: #FFF;}
 a:active {color: #FFF;}
 a:visited {color: #FFF;}
-#heading {height: 50px; font-size: 32px; padding-left: 10%;}
+#heading {line-height: 75px; font-size: 32px; padding-left: 8%;}

@@ -12,7 +12,9 @@ do
  markdown $f >> "export/$f.html"
  echo "</body></html>" >> "export/$f.html";
 done
-git add index.html
+git add *.html
+git add *.css
+git add *.md
 git add export/*.html
 git commit -m "Update sources"
 git push origin gh-pages

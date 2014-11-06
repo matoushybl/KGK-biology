@@ -81,7 +81,7 @@
 ###Pojiva
 * Vazivo
     * Buňky
-        * Fibroblasty->fibrodcyty->fibrily
+        * Fibroblasty -> fibrodcyty -> fibrily
     * Mezibuněčná hmota
         * Amorfní
         * Vláknitá
@@ -103,7 +103,7 @@
 2. hladká - vnitřní orgány
 3. srdeční       
 
-##Tkáň ervová
+##Tkáň nervová
 * vysoce specializovaná
 * vede el. vzruchy
 * reaguje na podněty, řídí organismus

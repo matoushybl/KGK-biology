@@ -18,7 +18,7 @@
 
 ##Stavba kosti
 * Okostice - prokrvená, obsahuje nervy
-* Kompaktní(hutná) tkán%n
+* Kompaktní(hutná) tkáň
 * Spongiozní(houbovitá tkáň)
 * kostní dřeň
 
@@ -31,9 +31,9 @@
  * ossein - organická
  * Anorg. fosforečnan vápenatý, uhličitan vápenatý
 * Haversův systém
- * Haversův kanaálek (cévy, nervy) + lamely(buňky, mezibuněčná hmota)
+ * Haversův kanálek (cévy, nervy) + lamely(buňky, mezibuněčná hmota)
 
-###Kostní tkán houbovitá
+###Kostní tkáň houbovitá
 * Architektonika kosti
 * Přestavba
 
@@ -73,7 +73,8 @@
 * Rachitis (křivice)
  * nedostatek D v dětství   
 
-> Insert last two hours
+> Insert last two hours  
+> WARNING!!! still not inserted :/
 
 ##Vady páteře 
 * Skolióza - bočitost páteře
@@ -144,17 +145,19 @@
  * radličná
  * jazylka 
 
-Kost klínová - turecké sedlo
-Kost spánková
+
+##Kost klínová - turecké sedlo  
+##Kost spánková  
 * kost skalní (sluchorovnovážné ústrojí)
 * jařmový oblouk
 * bodcový výběžek
 * bradavkový výběžek
-* šupina kosti spánkoév
+* šupina kosti spánkové
 
-Kost čichová
-Jazylka - zavěšení hrtanu 
-* část oblčejová
+
+##Kost čichová
+##Jazylka - zavěšení hrtanu 
+* část obličejová
 * část mozková
  * klenba
  * báze

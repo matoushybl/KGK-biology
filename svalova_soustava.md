@@ -1,4 +1,4 @@
-#Soustava svalová
+﻿#Soustava svalová
 * pohyb těla a částí
 * činnost vnitřních org
 * pohyb krve v cév syst
@@ -33,7 +33,7 @@
  * filamenta - aktin, myozin
 * energie z glykogenu - ATP
 * význam iontů Ca
- 
+
 ![](http://www.anaesthetist.com/icu/organs/heart/images/actinmyo.gif)
 
 ##Stavba svalu

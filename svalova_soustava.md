@@ -175,7 +175,7 @@
 * val palcový
 * val malíkový
 
-###Svaly horní končetiny
+###Svaly dolní končetiny
 * čtyřhlavý sval stehenní
 * krejčovský sval = dlouhý sv. stehenní
 * přitahovače

@@ -123,3 +123,28 @@
  * buněčná imunita
  * produkce protilátek
 * Monocyty
+
+####Trombocyty
+* Krevní destičky
+* úlomky buňek
+* 200 000 - 300 000/mm<sup>3</sup> 250e9/l
+* Vznikají z megakaryocytů
+* přežívají 9-11 dnů
+* význam při srážení krve
+
+###Srážení krve
+* hemokoagualce
+* při poranění, poškození cévy
+* zabraňuje vykrvácení
+* Trombocyty
+* shlukování a rozpadání -> serotonin - >zúžení cév
+* spuštění kagulačních faktorů
+* srážlivé faktory (kaskáda dějů)
+ * prtrombin - > trombin
+ * fibrinogen (plazmatická bílkovina) -> fibrin(nerozpusný, vláknitý)
+ * zachycení tělísek
+ * krevní koláč
+ * důležitý vitamín K a ionty Ca<sup>2+</sup>
+* protisrážlivé látky - plazmin a heparin
+* Trombóza - chorobné srážení krve
+ * trombus = embolus -> embolie    

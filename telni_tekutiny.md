@@ -148,3 +148,27 @@
 * protisrážlivé látky - plazmin a heparin
 * Trombóza - chorobné srážení krve
  * trombus = embolus -> embolie    
+
+####Hemofilie
+* geneticky podmíněná choroba
+* Hemofilie A - nepřitomnost srážecího faktoru VIII
+* Hemofilie B - nepřítomnost srážecího faktoru IX
+* ženy tím obvykle netrpí, jsou pouze přenašečky
+
+###Krevní skupiny
+* Jan Jánský - český lékař, psychiatr a neurolog, profesor UK
+ * Objevitel základních krevních skupin (přiřadil jim číslice I-IV)
+ * publikace práce
+ * propagátor dárcovství krve - Jánského plaketa
+
+<br/>
+
+
+![](http://ivy-fitness.com/images/blog/blood_types.jpg) 
+* antigeny - aglutinogeny A, B, 0 - na povrchu červených krvinek
+* protilátky - aglutininy anti-A, anti-B - v krevní plazmě
+
+![](http://www.zbynekmlcoch.cz/informace/images/stories/texty/system_ab0.gif)
+
+* Krevní sérum - vysrážená plasma
+

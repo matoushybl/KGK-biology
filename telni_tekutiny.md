@@ -1,4 +1,5 @@
-﻿#Tělní tekutiny - pojiva trofická
+﻿
+#Tělní tekutiny - pojiva trofická
 * krev, míza, kyseliny v žaludku, moč, žluč, mozkomíšní mok
 
 * Tekutiny intracelulární (32%)

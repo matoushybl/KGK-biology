@@ -172,3 +172,59 @@
 
 * Krevní sérum - vysrážená plasma
 
+###Rh faktor
+* pojmenování dle opičky(primáta) Macacus rhesus
+* v krvi objeven aglutinogen D
+* Rh+ 82-85% populace
+* Rh- 10-15% populace
+* Těhotenství - Matka Rh- - mohou nastat komplikace
+
+
+ ![](http://3.bp.blogspot.com/_m7dDvVYKO2c/SURBQsyaYvI/AAAAAAAAHqo/emraFZbr2uM/s400/macacus+rhesus.jpg)
+ 
+###Krevní transfuze
+* 0 - univerzální dárce
+* AB - univerzální příjemce
+* funguje jen ve velmi malých množstvích
+* nesnášenlivost krevních skupin (inkompatibilita
+* autotransfuze před operací - výhodné
+
+###Dědičnost krevních skupin
+* gen
+* alela
+* 3 alely v populaci
+* 2 alely u jedince
+* kombinace alel jedince
+
+###Hematokrit
+* poměr mezi objeme červených krvinake a plné krve
+
+##Oběhová soustava
+* William Harvey
+ * 1628 popsal činnost srdce a pohyb krve
+ * neznal kapiláry
+* Marcello malpighi
+ * 1661 popsal kapiláry
+* Jan Evangelista Purkyně
+ * 19. stol - popsal převodní systém srdeční
+ * Purkyňova vlákna
+
+###Srdce
+![](http://www.ikem.cz/www/cs?docid=1004183) 
+
+####Uložení a stavba srdečního svalu
+* za kostí hrudní vlevo
+* cca 0.3kg
+* v osrdečníku(perikard)
+* svalovina(myokard)
+* vnější obal svalu(epikard)
+* mezi perikardem a epikardem je tekutina
+* nitroblána srdeční(endokard)
+* šlašinky + brdečkové svaly
+* koronární - věnčité tepny
+
+####Převodní systém srdeční
+* Srdce má vlastní automacii a rytmicitu
+* Na řízení se podílí i autonomní nervstvo
+* Dále hormony (adrenalin)
+* Centrum kardiovaskulární je v prodloužené míše

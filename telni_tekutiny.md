@@ -174,7 +174,7 @@
 * Krevní sérum - vysrážená plasma
 
 ###Rh faktor
-* pojmenování dle opičky(primáta) Macacus rhesus
+* pojmenování dle **opičky**(primáta) Macacus rhesus
 * v krvi objeven aglutinogen D
 * Rh+ 82-85% populace
 * Rh- 10-15% populace
@@ -229,3 +229,53 @@
 * Na řízení se podílí i autonomní nervstvo
 * Dále hormony (adrenalin)
 * Centrum kardiovaskulární je v prodloužené míše
+
+####Fyziologie - činnost srdce
+* srdeční cyklus (srdeční revoluce) - 0.8s
+ * systola(stah) komor - 0.3s
+ * diastola(ochabnutí) komor - 0.5s
+* tep = puls - tlaková vlna  
+* TF klidová 70-80 tepů/min
+ *  maratonci 39
+ * sportovci 50-60
+ * děti - vyšší - i 90-100
+* TF při činnosti = 180-200/min
+* Srdeční ozvy (systolická, diastolická)
+* Srdeční šelesty
+* Tepový objem
+ * množství krve vypuzené z komory při systole
+ * 60 - 80 ml
+* Minutový objem srdeční
+ * Množství krve vypuzené do oběhu za 1 minutu
+ * tepový objem x počet tepů za 1 minutu
+ * v klidu 5l
+ * při činnosti 30-40l/min (měřítko výkonnosti)
+* Trénované srdce
+ * vyšší výkonnost
+ * kvalitnější odpočinek
+* EKG vyšetření - registrace elektrické aktivity srdcce
+ * Elektrody - elektrokardiograf - elektrokardiogram (záznam)  
+* TK
+ * krevní tlak
+ * tlak krve působící na stěny tepen (tlak arteriální = tepenný)
+ * měření - tonometrem na pažní tepně
+* Systolický tlak - vznik při systole komor
+* Diastolický - při diastole komor
+* Klidový TK
+ * 180/80 mmHg (16/10.7 kPa)
+ * zvyšuje se při tělesné aktivitě
+* Hypertenze 160/90
+* Hypotenze 90/60
+
+####Regulace krevního tlaku
+* Kardiovaskulární centrum v prodloužené míše
+* Baroreceptory v aortě a krčních tepnách
+ * Aktuální TK
+ * Negativní zpětná vazba
+  * Při vysokém TK se snižuje výkon srdce
+* Trvale zvýšený TK
+ * Nebezpečné v kombinaci s kouřením a vysokým cholesterolem
+ * Námaha prosrdce mozek a sítnici
+* Trvale snížený TK
+ * Zhoršené zásobování tkání krví
+ * Mdloby aj.       

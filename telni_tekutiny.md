@@ -278,4 +278,49 @@
  * Námaha prosrdce mozek a sítnici
 * Trvale snížený TK
  * Zhoršené zásobování tkání krví
- * Mdloby aj.       
+ * Mdloby aj.
+
+##Soustava cévní
+* uzavřená
+* srdce
+* tepny
+* žíly
+* vlásečnice
+* funkce
+ * transportní
+ * termoregulační
+ * humorální
+ * ochranná
+
+###Oběhové okruhy
+* malý plicní oběh
+ * srdce - plíce - srdce   
+* velký tělní(systémový oběh)
+ * srdce - tělo - srdce
+* Obvody
+ * Vrátnicový(střevo -> játra)
+ * Ledvinný
+ * Srdeční(koronární)
+ * Horní systémový(hlava, horní končetiny)
+ * Dolní systémový
+
+> Chybí učivo pro seminárníky, jsem moc líný
+
+####Velký oběh
+* oblouk aorty - odstupují tři tepny
+
+###Tepny
+* výstelka - endotel
+* hladká svalovina
+* elastická vlákna - velký počet
+* vazivová tkáň - s kolagenními vlákny
+
+####Tepny - tlakové body
+* tepna spánková
+* lícní
+* krkavice
+* podklíčková
+* pažní
+* vřetenní - zápěstí
+* kyčelní
+* stehenní

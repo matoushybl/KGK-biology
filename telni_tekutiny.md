@@ -324,3 +324,39 @@
 * vřetenní - zápěstí
 * kyčelní
 * stehenní
+
+###Vlásečnice
+* Endotel - jedna vrstva plochých buněk
+* výměna látek
+* malá rychlost krve
+* TK snížený
+
+###Žíly
+* vazivový povrch
+* hladká svalovina
+* cévní výstelka - endotel
+* kapsičkovité chlopně
+* TK nízký až nulový
+* žíly
+ * horní dutá
+ * dolní dutá
+ * hrdelnice
+ * podpažní, podklíčková, stehenní
+
+####Žíly - mechanismy návratu krve
+* činnost srdce
+* negativní nitrohrudní tlak
+* činnost kosterního svalstva
+* tepny v blízkosti žil
+* kapsičkovité chlopně
+
+###Onemocnění
+* hypertenze
+* hypotenze
+* arterioskleróza
+* ateroskleróza
+* žilní městky - křečové žíly (varixy)
+* ischemická choroba srdeční
+* angina pectoris (forma ICHS)
+* srdeční infarkt
+* mozková příhoda

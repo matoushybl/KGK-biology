@@ -360,3 +360,6 @@
 * angina pectoris (forma ICHS)
 * srdeční infarkt
 * mozková příhoda
+
+* Bypass - přemostění
+* angioplastika

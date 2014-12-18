@@ -50,3 +50,15 @@
   * imunizace - vakcinace - očkování
     * aktivní
     * pussyvní
+
+##Poruchy imunitního systému
+* hypersenzitivita - zvýšená citlivost na obvykle neškodné antigeny
+* alergie
+  * nadměrná reakce na některé látky(pyly, spory, roztoči, prach aj.)
+  * zděděné predispozice
+  * tendence k astmatu, ekzému, kopřivce aj.
+  * zjištění - dávkování antigenů
+* Autoimunitní onemocnění
+  *  Crohnova choroba, Bechtěrova choroba, roztroušená skleróza aj.
+  * imunosupresiva - potlačují imunitní reakci
+* AIDS

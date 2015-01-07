@@ -12,3 +12,16 @@
   * Dolní cesty dýchací
 * Plíce(část respirační)
 * Dýchací svaly - bránice a mezižeberní svaly
+
+###Horní cesty dýchací
+* nos
+* dutina nosní
+    *  tvrdé a měkké patro
+    * přepážka nosní
+    * nosní skořepy
+  *  Sliznice - řasinkový epitel
+  * čichová sliznice
+* vedlejší dutiny nosní - kost čelní, horní čelist, kost klínová, kost čichová
+* nosohltan - eustachova trubice ->  střední cuho
+* hltan
+* hrtanová příklopka

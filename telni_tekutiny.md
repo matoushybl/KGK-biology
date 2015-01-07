@@ -52,7 +52,7 @@
 ###Krevní plazma
 * organické a anorganické látky
  * voda 90%
- * plazmatické bílkoviny 7% 
+ * plazmatické bílkoviny 7%
  * glukóza 0.1%
  * NaCl, K+, hydrogenuhličitan sodný
  * Hormony, přenášené látky
@@ -148,7 +148,7 @@
  * důležitý vitamín K a ionty Ca<sup>2+</sup>
 * protisrážlivé látky - plazmin a heparin
 * Trombóza - chorobné srážení krve
- * trombus = embolus -> embolie    
+ * trombus = embolus -> embolie
 
 ####Hemofilie
 * geneticky podmíněná choroba
@@ -165,7 +165,7 @@
 <br/>
 
 
-![](http://ivy-fitness.com/images/blog/blood_types.jpg) 
+![](http://ivy-fitness.com/images/blog/blood_types.jpg)
 * antigeny - aglutinogeny A, B, 0 - na povrchu červených krvinek
 * protilátky - aglutininy anti-A, anti-B - v krevní plazmě
 
@@ -182,7 +182,7 @@
 
 
  ![](http://3.bp.blogspot.com/_m7dDvVYKO2c/SURBQsyaYvI/AAAAAAAAHqo/emraFZbr2uM/s400/macacus+rhesus.jpg)
- 
+
 ###Krevní transfuze
 * 0 - univerzální dárce
 * AB - univerzální příjemce
@@ -211,7 +211,7 @@
  * Purkyňova vlákna
 
 ###Srdce
-![](http://www.ikem.cz/www/cs?docid=1004183) 
+![](http://www.ikem.cz/www/cs?docid=1004183)
 
 ####Uložení a stavba srdečního svalu
 * za kostí hrudní vlevo
@@ -294,7 +294,7 @@
 
 ###Oběhové okruhy
 * malý plicní oběh
- * srdce - plíce - srdce   
+ * srdce - plíce - srdce
 * velký tělní(systémový oběh)
  * srdce - tělo - srdce
 * Obvody
@@ -363,32 +363,3 @@
 
 * Bypass - přemostění
 * angioplastika
-
-##Soustava mízní (lymfatická)
-* lymfatické cévy
- * mízní vlásečnice
- * uzlíčky lymfoidní tkáně(sliznice soustav)
- * mandle
- * slezina
- * brzlík
-
-###Funkce mízní soustavy
-* odvádění přebytečného tkáňového moku
-* odvádění tuků
-* obranné mechanismy
-
-###Slezina
-* největší lymfatický orgán v těle
-* Funkce
- * zásobárna erytrocytů
- * likvidace erytrocytů
- * zdroj leukocytů
-
-###Brzlík
-* řadí se  systému imunitnímu i lymfatickému  
-* uložen před srdcem za kostí hrudní
-* 2 laloky
-* přechodný orgán
- * v pubertě začiná atrofovat
- * v dospělosti vazivově tuková tkáň
-* funkce - dozrávání erytrocytů  

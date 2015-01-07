@@ -25,3 +25,14 @@
 * nosohltan - eustachova trubice ->  střední cuho
 * hltan
 * hrtanová příklopka
+
+###Dolní cesty dýchací
+* Hrtan
+  * Jazylka
+  * Chrupavka štítná
+  * Ch. prstencová
+  * Ch. hlasivkové
+  * Hlasové vazy (hlasivky, zvuk, tezonance, artikulace)
+* Průdušnice
+* Průdušky
+* Průdušinky

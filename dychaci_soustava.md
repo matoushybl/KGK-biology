@@ -34,5 +34,39 @@
   * Ch. hlasivkové
   * Hlasové vazy (hlasivky, zvuk, tezonance, artikulace)
 * Průdušnice
+  * Chrupavky
+  * Hladká svalovina
+  * řasinkový epitel
 * Průdušky
+  * Plicní branka
+  * Chrupavky
+  * Řasinkový epitel
+  * Průduškový strom
 * Průdušinky
+  * bez chrupavčité výztuže
+  * 1mm
+* Průduškové astma - dušnost - křečovité stahy hladkého svalstva
+
+###Plíce
+* Plicní váčky
+* Plicní sklípky
+  * respirační epitel - 80m <sup>2</sup>
+  * Plicní kapiláry - vlásečnice
+* Plíce
+  * elastická vlákna mezi sklípky
+  * Laloky 3.2
+* Poplicnice
+* Pohrudnice
+* Pohrudniční štěrbina
+
+##Fyziologie dýchání
+* Plicní ventilace
+  * dýchací svaly
+  * negativní nitrohrudní tlak
+  * plíce - pružné vaky
+* Nádech
+  * Aktivní děj
+* Výdech
+  * pasivní děj
+* pomocné dýchací svaly
+  * Břišní, prsní, zádove

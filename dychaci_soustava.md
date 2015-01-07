@@ -50,7 +50,7 @@
 ###Plíce
 * Plicní váčky
 * Plicní sklípky
-  * respirační epitel - 80m <sup>2</sup>
+  * respirační epitel - 80 m<sup>2</sup>
   * Plicní kapiláry - vlásečnice
 * Plíce
   * elastická vlákna mezi sklípky
@@ -70,3 +70,5 @@
   * pasivní děj
 * pomocné dýchací svaly
   * Břišní, prsní, zádove
+
+> chybí učivo pro seminárníky :P

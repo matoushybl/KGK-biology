@@ -121,3 +121,45 @@
 * ve formě HCO3-
 * rozpuštěný v plazmě
 * vázaný na hemoglobin - nejméně
+
+###Vazba s CO
+* Hemoglobin s CO - karbonylhemoglobin
+  * Co se váže snadno, pevně, znemožňuje navázání kyslíku
+  * Afinita Co k hemoglobinu - 200-300x větší než afinita ke kyslíku
+  * vazba je reverzibilní - proces je pomalý
+* Reakce s dusinany, dusitany
+  * dochází k oxidaci Fe 2+ na Fe 3+
+  * hemoglobin nedokáže přenášet kyslík = methemoglobin - citliví - kojenci
+
+##Řízení plicního dýchání
+* centrum v prodloužené míše
+* chemoreceptory
+  * umístěn v aortě a krkavicích
+  * koncentrace - paricální tlak 02 a CO2, změna pP
+  * čidla též v plicích a dýcyhcích svalech (řídí mícha)
+* při bolesti, emocích, horečce - činnost dých soustavy ovlivněna
+* volní dýchání - vědomé ovlivňvání dýchacího centra
+  * při zadržení dechu - prudce stoupne obsah CO2 v krvi
+  * stimuluje dýchací centrum, které potlačí volní regulace
+
+##Nerespirační fce dých soustavy
+* zabraňuje vstupu cizorodých látek a patogenů
+  * řasinky, hlenotvorné žlázky
+    * zachycení mikrorganismů
+  * kouření ničí řasinky
+    *  nikotin, dehet se hromadí v plicích
+    * působí škodlivě i na žaludek, srdce a moč. měchýř
+    * náchylnější k infekci
+* tvorba hlasu
+* ohřívání a zvlhčování vzduchu před vstupem do plic
+
+##Onemocnění
+* chřipka - horečnaté, virový původ
+* pneumonie (zápal plic) - přičina - viry, bakterie nebo mykoplazmata
+  *   plicní sklípky zaplněny vodou a hlenem
+* tuberkulóza
+  * makterie mycobakterium tuberculosis
+  * bakt se usazují v plicích, zjizvují tkáň
+  * rozšiřují se do jiných orgánů
+  * někdy se může tkáň potrhat
+* bronchitida

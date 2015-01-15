@@ -199,13 +199,3 @@
 
 ###Hematokrit
 * poměr mezi objeme červených krvinake a plné krve
-
-##Oběhová soustava
-* William Harvey
- * 1628 popsal činnost srdce a pohyb krve
- * neznal kapiláry
-* Marcello malpighi
- * 1661 popsal kapiláry
-* Jan Evangelista Purkyně
- * 19. stol - popsal převodní systém srdeční
- * Purkyňova vlákna

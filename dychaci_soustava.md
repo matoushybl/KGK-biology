@@ -163,3 +163,44 @@
   * rozšiřují se do jiných orgánů
   * někdy se může tkáň potrhat
 * bronchitida
+* Rakovina
+* CHOPN
+  * chronická obstrukční plicní nemoc
+  * omezen průtok vzduchu v průduškách
+
+##Obrané dýchací reflexy
+* kýchnutí
+* kašel
+
+##Poruchy ovlivňující plicní fce
+* ucpání dýchacích cest
+  * nemocní s chronickou bronchitidou aj.
+  * vdechováním prachových částic
+  * ztlušťováním stěn dých. cest
+  * zmenšení vnitřního průsvitu
+* Astma
+  * stěny bronchiolů se stahují - zužují
+    * onemocnění doprovázeno otkoy, ztlušťování stěn dých cest, a zvýšenou produkcí hlenu
+    * záchvatovitá choroba spojená s alergiemi
+    * léky - roztahují bronchioly, čistí dých cesy
+  * Pneumotrax
+
+  ###Hypobarie
+  * horská výšková nemoc
+    * snížený barometrický tlak - ztížené dýchání
+    * nedostatek kyslíku ve tkáních
+  * 3000m bez aklimatizace
+    * poruchy soudnosti, dezorientace, bolesti hlavy
+    * rozvoj horské nemoci
+    * dušnost, nespavost, modrofialové sliznice
+  * 6000m bez aklimatizace
+    * ztráta vědomí
+
+  ###Hyúerbarie
+  * účinek zvýšeného tlaku baromatrického tlaku
+    * potápěči, lovci perlorodek
+    * do organismu vstupuje více dusíku
+    * rychlé vynoření - nestačí se vydýchat, bublinky poškozují tkáně
+  * Kesonová nemoc
+    * Křeče, bolesti kloubů, obrna svalů, poruchy vědomí
+    * pomalý výstup z hloubky

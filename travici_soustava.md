@@ -200,3 +200,56 @@
     * žlučová barviva - bilirubin
     * cholesterol, ionty, Na, K, Cl, aj.
 * žlučovod ústí do dvanáctníku
+
+####Funkce žluči
+ * emulgace tuků - umožňuje vstřebávání tuků, vitamínů ADEK
+ * odvádí škodlivé látky a toxiny
+
+ > seminárnící
+
+
+ * stupňuje peristatiku střeva
+ * neutralizace kyselého chymu
+
+#####Cholesterol
+* nepostradatelný
+  * tuková povaha
+  * stavební jednotak nervů
+  * tvorba buňečných membrán
+  * hormony, vitamin D
+  * pomáhá zpracovávat tuky
+* org. vyrábí sám i je přijímán v potravě
+* Játry vylučován do žluči
+* endogenní tvorba i denní spotřeba je individuální
+  * při zvýšeném příjmu v potravě se zvyšuje produkce
+* příliš vysoká koncentrace v krvi - zdrav. rizika (onemocnění cév)
+* je hodný a zlý
+
+###Tekné střevo
+* součástí je i dvanáctník
+* lačník
+* kyčelník
+* 3-5m
+* průměr cca 3cm
+* na povrchu je serózní blána
+* 2 vrstvy hladké svaloviny (okružní a podélná) - zajišťuje pohyb - peristaltiku
+* podsližniční vazivo
+* sliznice - řasy a záhyby
+  * klky a mikroklky
+  *  střevní šťáva
+    * enzymy - erepsin, sacharáza, maltáza
+  * živiny jsou odvedeny vrátnicovou žilou do jater
+* trávenina prochází 4-8 hodin
+
+###Tlusté střevo
+* asi 1.5m, nemá klky, odchází v něm ke vstřebávání zbytků živin, vody, vitamínů
+* stavba
+  * vzestupný tračník
+  * příčný tračník
+  * sestupný tračník
+  * esovitá klička
+  * konečník
+  * řitní otvor
+* pokryta hlenem
+* pro správnou fci nutná vláknina v potravě
+* bakterie - kvasné, hnilobné

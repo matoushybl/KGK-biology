@@ -102,10 +102,10 @@
     * podmíňené reflexy(Pavlov) - odpovídají za ně vyšší složky NS
 
 ###Hltan
-    * 12-14cm
-    * nosohltan, ústní část - křížení trávicí a dýchycí soustavy, hrtanová část . C6
-      * sousto - začátek hltanu -polknutí ovlivnitelné
-      * zadní část hltanu - reflexní polknutí
+* 12-14cm
+* nosohltan, ústní část - křížení trávicí a dýchycí soustavy, hrtanová část . C6
+  * sousto - začátek hltanu -polknutí ovlivnitelné
+  * zadní část hltanu - reflexní polknutí
 
 ###Jícen
 * trubice 25 cm
@@ -135,6 +135,8 @@
   * sliznice
     * jednovrstevný cylindrický epitel se žlázkami
     * žaludeční šťáva
+
+
   #####žaludeční šťáva
   * bezbarvá řídká tekutina
   * 2-3l/den
@@ -144,3 +146,57 @@
   * Mucin
   * žaludeční vředy - Helicobacter pylori
   * Pepsin - bílkoviny -> polypeptidy
+
+  #####Funkce žaludku
+  * mechanické a chemické zpracování
+    * chybmus - trávenina
+    * peristaltické pohyby
+    * pomalé vyprazdňování chymu do dvanáctníku
+  * rychlost ovlivňuje chem složení
+    * sacharidy 2-3 hod
+    * bílkoviny 4 hod
+    * tuky 6h
+    * alkohol 10min - už v ústní dutině
+  * dvanáctní - duodenum
+    * podkovovitý tvar 25 - 30cm
+    * vyústění slinivky břišní a žlučníku
+
+  ###Slinvka břišní
+  * pod žaludkem v ohybu dvanáctníku
+  * 14-18cm
+    * protáhlá laločnatá, narůžovělá
+    * hlava, tělo, ocas
+  * část endokrynní
+    * langerhansovy ostrůvky
+    * inzulín, glukagon - do krve
+  * část exokrynní
+    * pankreatická šťáva
+
+####Pankreatická šťáva
+* bezbarvá tekutina
+  * 1-2l denně
+  * pH 7-8.5
+* složení
+  * voda
+  * anorganické látky - NaHCO3
+  * organické látky - enzymy
+    * trypsin - proteáza
+    * amylázy
+    * lipázy
+* Funkce pankreatické šťávy
+  * enzymy k trávení všech složek potravy
+  * neutralizace HCl
+  * řízení vyměšování
+    * nervové
+    * humorální
+
+###Žlučník
+* žlučový měchýř - 50-80ml uložen pod játry
+* žluč
+  * tvořena v játrech - 250-1000ml denně
+  * složení
+    * voda
+    * soli žlučových kyselin
+    * žlučová barviva - bilirubin
+    * cholesterol, ionty, Na, K, Cl, aj.
+* žlučovod ústí do dvanáctníku

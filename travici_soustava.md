@@ -324,3 +324,16 @@
   * bílkovin 0.8
   * tuků 0.7
   * >1 přeměna cukrů na tuky
+
+####Zastoupení  a metabolismus živin
+* sacharidy
+  * 60%
+  * hlavní zdroj energie , 4-5g/1kg hmotnosti
+* Tuky
+  * 25%
+  * zásoba energie, zdroj esenciálních mastných kyselin a cholesterol
+  * 0.5-1g/1kg hmotnosti
+* bílkoviny
+  * 15% (50% rostlinných a 50% živočišných)
+  * jediný zdroj N
+  * 1g/1kg, děti a těhotné až 4g

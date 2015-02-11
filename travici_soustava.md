@@ -253,3 +253,74 @@
 * pokryta hlenem
 * pro správnou fci nutná vláknina v potravě
 * bakterie - kvasné, hnilobné
+* svěrače
+
+###Játra
+* v horní části dutiny břišní vpravo pod bránicí
+* 1500g
+* 2 laloky, mezi nimi je vazivová přepážka
+  * pod játry je žlučník
+* ústřední orgán metabolismu
+* dvojí cévní zásobení
+  * jaterní tepna 20-30% zásobení
+  * vrátnicová žíla 70-80%
+  * vstupují do jaterní branky
+
+####Jaterní lalůček
+* základní stavebí jednotka jaterního parenchymu
+* shluky buňek ve tvaru šestibokých hranolků
+* až 1mm velký
+* Jaterní trámečky - 2 řady buňek
+* Žlučová kapilára mezi nimi
+  * kanálky mezilalůčkové - společný jaterní vývod - žlučovod
+* patra trámců se sbíhají do středu lalůčku
+* centrální žilka - DDŽ
+* Tepénky - O2
+* vrátnicová žíla - žilky - živiny
+
+> chybí vrátnicová žíla  - jsem líný
+
+####Funkce jater
+* metabolismus živin
+* tvorba glykogenu, erytropoetinu aj.
+* detoxikace (léky, alkohol, chloroform aj.)
+* sklad vitamínů (A, E, D, K)
+* zásobárna krve
+* tvorba tepla
+* dobrá regenerace
+
+####Onemocnění jater
+* cirhóza - ztvrdnutí
+* rakovina
+* hepatitida A, B, C
+* mononukleóza
+* napadení parazity (hlísti, motolice, améby)
+
+###Metabolismus
+* heterotrofní organismus
+* přeměny látek a energií
+* 2 typy přeměn
+  * reace katabolické(exergonické) - odbourávání látek (E se uvolňuje)
+  * reakce anabolické(endergonické) - vznik látek (E se spotřebovává)
+* ve zdravém těle v rovnováze
+
+####Bazální metabolismus
+* jaké nároky má tělo na energie
+* 7000kJ
+* snižuje se s věkem nebo při hladovění
+* vyšší je u eskymáků
+* celkový energetický metabolsimus
+  * bazální + aktivní
+  * kancelář 11000kJ
+  * těžce pracující žena 15000kJ
+  * težce pracující muž 20000kJ
+* spálené teplo živin
+  * 1g cukru 17.22kJ
+  * 1g tuku 39.06kJ
+  * 1g bílkoviny 17.2kJ
+* kalorimer
+* respirační kvocient
+  * cukrů 1
+  * bílkovin 0.8
+  * tuků 0.7
+  * >1 přeměna cukrů na tuky

@@ -337,3 +337,27 @@
   * 15% (50% rostlinných a 50% živočišných)
   * jediný zdroj N
   * 1g/1kg, děti a těhotné až 4g
+
+> zase chybí seminární učivo
+
+####BMI
+* index tělesné hmotnosti
+* umožňuje statistické porovnání tělesné hmotnosti lidí s různou výškou
+* inxes se počítá vydělením hmotnosti druhou mocninou jeho výšky
+* hmotnst v kg, výška v m a výsledek v kg/m2
+* hodnoty
+  * 15 - vážná podvýživa
+  * >40 - morbidní obezita
+* nelze brát jako absolutní ukazatel, jen přibližné vodítko
+* kulturista může mít nad 30, přesto není obézní
+* starší lidé s malým množstvím svalstva mohou být obézní přestože bmi říká něco jiného
+* hranice hodnot BMI se také liší pro různé rasy - asiaté menší hodnoty
+
+###Vitamíny
+* látky nezbytné pro život - tělo si je nedokáže samo vytvořit
+* příjem s potravou
+  * hotové
+  * v podobě provitaminů
+  * některé vznikají činností bakterií - K, B12
+* funkce biokatalyzátorů
+* složka některých enzymů

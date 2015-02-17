@@ -84,8 +84,8 @@
 * Reziduální objem - zbytkový 1.5l
 
 ###Vitální kapacita plic
-* součet dechového oběmu, výdechového a nádechového rezevního objemu
-* totální kapacita součet dechového oběmu, výdechový, nádechového objemu a reziduální
+* součet dechového objemu, výdechového a nádechového rezevního objemu
+* totální kapacita součet dechového objemu, výdechový, nádechového objemu a reziduální
 
 * Náležitá vitální kapacita plic
   * jakou bychom měli mít vzhledem k pohlaví, věku, hmostnosti, výšce...

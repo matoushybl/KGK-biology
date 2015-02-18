@@ -118,6 +118,7 @@
 
 ###Přenos CO2
 3 formy
+
 * ve formě HCO3-
 * rozpuštěný v plazmě
 * vázaný na hemoglobin - nejméně

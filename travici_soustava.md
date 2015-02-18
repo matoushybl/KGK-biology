@@ -361,3 +361,36 @@
   * některé vznikají činností bakterií - K, B12
 * funkce biokatalyzátorů
 * složka některých enzymů
+
+* Hypovitaminóza - nedostatek vitaminů v těle
+* Avitaminóza - úplná absence - závažná onemocnění
+* hypervitaminóza - přebytek
+
+####Rozdělení
+* rozpustné v tucích - (Z), A, D, E, K
+* rozpustné ve vodě
+
+####A
+* zdroj - žloutek, játra
+* provitamin - beta karoten - mrkev
+* doporučná denní dávka - 0.8mg
+* Funkce - součást zrakového barviva sítnice, ovlvňuje tvorbu bílkovin epitelů
+* Avitaminoza - šeroslepost
+* Hyper - toxický, poruchy vývoje plodu
+
+####D
+* zdroj - valstní tvorba, hotový - rybí tuk, kvasnice, vejce, játra, mléko
+* DDD - 5ug
+* fce - metabolismus Ca a P v těle, osifikace
+* Hypo - rachitis, osteoporóza, osteomalacie
+* hyper - nežádoucí ukládání vápníku
+
+####E
+* zdroj - rostlinné oleje, obilné klíčky
+* DDD - 12mg
+* funkce
+  * zajišťuje normální funkce pohl org.
+  * šprávný průběh těhotenství
+  * antioxidant
+* hypo - poruchy plodnosti
+* hyper - žaludeční potíže

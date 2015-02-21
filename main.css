@@ -1,9 +1,88 @@
-html, body { background: #2baf2b; font-family: sans-serif; color: #FFF;margin: 0; height: auto; text-transform: uppercase;}
-h1 {font-size: 3em; }
-h3 {font-size: 1.5em;}
-#header {padding: 2%; padding-left: 8%; height: inherit;}
-a {display: block; line-height: 75px; font-size: 32px; text-decoration: none; padding-left: 10%; vertical-align: middle;}
-a:link {color: #FFF;}
-a:active {color: #FFF;}
-a:visited {color: #FFF;}
-#heading {line-height: 75px; font-size: 32px; padding-left: 8%;}
+html,
+body {
+    background: white;
+    font-family: 'Roboto Slab', 'Roboto', serif;
+    color: black;
+    margin: 0;
+    height: auto;
+}
+h1 {
+    font-size: 3em;
+    font-weight: 400;
+    font-family: 'Roboto Slab';
+    text-transform: uppercase;
+}
+h3 {
+    font-size: 1.0em;
+    text-transform: uppercase;
+}
+
+#subheader {
+    font-family: 'Roboto';
+    font-style: italic;
+    padding-top: 1%;
+}
+#header {
+    padding: 2%;
+    padding-left: 8%;
+    height: inherit;
+}
+.item {
+    font-family: 'Roboto';
+    display: block;
+    line-height: 50px;
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 10%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    padding-left: 1%;
+    vertical-align: middle;
+    border-left: 8px;
+    border-style: solid;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-color: blue;
+}
+.item:link {
+    color: black;
+}
+.item:active {
+    color: black;
+}
+.item:visited {
+    color: black;
+}
+.item:hover {
+    background-color: #f1f1f1;
+}
+
+.footer_item {
+    display: block;
+    line-height: 60px;
+    font-size: 24px;
+    text-decoration: none;
+    padding-left: 5%;
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    vertical-align: middle;
+}
+.footer_item:link {
+    color: black;
+}
+.footer_item:active {
+    color: black;
+}
+.footer_item:visited {
+    color: black;
+}
+.footer_item:hover {
+    background-color: #f1f1f1;
+}
+#heading {
+    line-height: 75px;
+    font-size: 32px;
+    padding-left: 8%;
+    font-weight: 400;
+    font-family: 'Roboto Slab';
+}

@@ -394,3 +394,51 @@
   * antioxidant
 * hypo - poruchy plodnosti
 * hyper - žaludeční potíže
+
+####K
+* protikrvácivý
+* zdroj - listová zelenina, kvasnice, tvořen ve střevě (e. coli)
+* DDD - 75ug
+* fce - důležitý pří srážení krve
+* hypo  - zvýšená krvácivost
+* hyper - rozpad erytrocytů, poškození jater
+
+###Vitaminy rozpustné ve vodě
+* vitamin C
+* vitaminy skupiny B,  B1 - B12 (bez B10, B11)
+
+####C - kys askorbová
+* zdroj - syrové ovoce (černý rybíz, citrusy, kiwi), zelenina(paprika, brambory)
+* DDD - 80mg
+* fce - katalyzuje buňečné oxidace, podporuje tvorbu kolagenu, vaziva, chrupavek, vznik protilátek, zvyšuje imunitu, antioxidant
+* Hypo - zvyšuje se únava, snižuje odolnost k infekcím, krvácivost anemie
+* Avitaminóza - Kurděje - skorbut - krvácení dásní, pod kůží, do svalů
+
+####Vitaminy skupiny B
+* neničí se vařením
+* mají řadu fcí v rámci metabolismu
+* ovlivňují sliznice, svalovou, nervovou soustavu
+* obsaženy jsou v tmavém pečivu, kvasnicích, obilí, obilných klíčcích, vnitřnostexh, hlavně v játrech, listové zelenině, i v luštěninách
+
+#####B12 - kys listová
+
+###Minerální látky
+* v organismu v podobě iontů
+  * Na, Cl, K, Ca
+  * bioelektrické děje - nervosvalová dráždivost
+  * nedostatek snížená nervosvalová dráždivost, snížený svalový tonus, svalové křeče..
+  * Ca - osteomalácie, osteoporóza, křeče
+* Fe
+  * ovlivnění krvetvorby, srážení krve aj.
+  * nedostatek - anemie
+* Mg, Mn - nedostatek - svalové křeče
+* Mg - součást enzymů, nedostatek - >sval křeče
+* Mn - nedostatek - sval. křeče, poruchy růstu
+* Jód
+  * součást hormonů štítné žlázy - tyroxin
+  * nedostatek - struma, kterenismus, poruchy růstu
+* P
+  * ve všech tkáních
+  * nedostatek -> kazivost zubů
+* F - nedostatek -> kazivost zubů
+* Se -antioxidant, brání tvorbě volných radikálů, protirakovinný

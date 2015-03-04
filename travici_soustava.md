@@ -442,3 +442,51 @@
   * nedostatek -> kazivost zubů
 * F - nedostatek -> kazivost zubů
 * Se -antioxidant, brání tvorbě volných radikálů, protirakovinný
+
+###Tělesná teplota
+* homoiotermní - endotermní organismus
+  * tělesná teplota v úzkém intervalu - 36.4°C - 37.4°C
+* teploty různých tkání a orgánů se liší
+  * tělesné jádro 37°C
+  * povrch těla se chová poikilotermně
+  * játra po požití bílkovin 40°C
+* měření teploty
+  * v podpaží 36.5-36.9°C
+  * dutina ústní 37°C
+  * konečník 37.5°C (u kojenců)
+
+###Tvorba tepla
+* játra a vnitřní orgány
+* svaly - svalový třes(zvýšení teploty), volní pohyby
+* i příjem z okolí
+* horečka - pyrogeny - ovlivní termoregulační centrum v hypotalamu
+  * makrofágy uvolňují iterleukin
+  * bakteriální a jiné látky působí na termoregulační systém jako pyrogeny
+
+####Horečka
+* ničí některé mikroorganismy
+* zvýšená
+* vysoká přes 41°C
+* poškozuje nervové buňky
+  * 42°C - 43°C - vede ke smrti
+* antipyretika
+  * paralen, aspirin
+  * potlačují vznik pyrogenů, potlačují horečku
+
+####Výdej tepla
+* sáláním - vyzařování do prostředí až 60%
+* odpařováním - pot, vydechovaný vzduch - 25%
+* proudění - vítr... cca 15%
+* vedením - cca 1%
+* vazokonstrikce - zúžení cévního řečiště - zejména v periferiích těla
+* vazodilatace - rozšíření cévního řečiště - zbavování se tepla - zejména cévy v podkoží
+* hypotermie - podchlazení - do 35°C
+  * 34°C - ospalost, nechuť k pohybu
+  * pod 30°C - ztráta vědomí
+  * pod 20°C - nefunkčnost srdečního svalu
+* hypertermie - přehřátí
+  * okolní teplota nad 60°C
+  * dospělý zvládá až 70°C
+* úpal - nahromadění tepla
+* úžeh - působení slunce na hlavu
+* 

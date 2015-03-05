@@ -487,6 +487,15 @@
 * hypertermie - přehřátí
   * okolní teplota nad 60°C
   * dospělý zvládá až 70°C
-* úpal - nahromadění tepla
+* úpal - nahromadění tepla při neúčinné termoregulaci
+  - příznaky - bolest hlavy, zmatenost, zvracení, ztráta vědomí
+  - následky - poškození mozku, ztráta smyslu pro rovnováhu a orientace i smrt
 * úžeh - působení slunce na hlavu
-* 
+  - přehřátí mozku
+  - bolest hlavy, horečka, slabost
+  - těžká forma může způsobit otok mozku a následnou smrt
+  - první pomoc
+    + podáváním studených obkladů
+    + hlavně dostatkem tekutin
+    + léčí se studenou sprchou, či koupelí
+

@@ -110,7 +110,7 @@
     - sběrací kanáky - ledvinné kalichy - ledvinná pánvička - močovod - ...
 
 ###Močovod
-* 30 c, 5-7mm
+* 30 cm, 5-7mm
     - řasinkový epitel
     - hladká svalovina - peristaltika
     - vazivový obal
@@ -121,3 +121,46 @@
 * při nápni 350-400ml - zvýšený tlak - nucení k močení(vůlí lze zadržet až 700ml)
 * tlak moči vyvolá reflexní stah
 * reflexivní centrum - v křížové míše, ale pod kontrolou mozkové kůry
+
+###Močová trubice
+* ženy 3-5cm, muži 15-20cm
+* vnitřní svěrač - hladká svalovina
+* vnější svěrač - příčně pruhovaná
+* Mikce - urinace - močení
+    - ovládat se děti naučí do 2 let
+
+###Funkce ledvin a vyl. soustavy
+* exkreční
+    - odstraňují dusíkaté zplodiny metabolismu
+    - nabytečné látky, které tělo nevyužívá
+    - některé zbytky léků
+* osmoregulační
+    - regulují obsah vody a soli
+* tvoří některé látky
+    - erytropoetin - hormon
+    - renin
+
+###Řízení činnosti ledvin
+* antidiuretický hormon ADH - vazopresin
+    - polyurie - nadbytečné odstraňování moči
+    - alkohol snižuje fci ADH
+    - stahuje kanálky
+* aldosteron
+* aroreceptory
+* osmoreceptory
+* do činnosti nefronů zasahují
+    - parathormon
+    - kalcitonin
+* erytropoetin
+* renin
+
+##Onemocnění
+* ledvinné kameny
+* Infekce a záněty
+* Chronické selhání ledvin
+    - dialýza
+    - transplantace ledviny
+* Akutní - náhlé selhání ledvin
+* nádory
+* záněty močových cest
+* při zastavení činnosti ledvin 3-5 dnů - smrt

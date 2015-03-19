@@ -19,7 +19,7 @@
     - břicho, hýždě
 * Pokožka
     - epidermis
-    - mnohovrstevný dlaždivoý epitel
+    - mnohovrstevný dlaždicový epitel
 * bazální buňky
 * rohovatění buňek
 * odlupování buňek
@@ -95,4 +95,25 @@
 ###Kožní smyslová tělíska
 * uložena ve škáře - kombinovaná činnost
 
+###Podkožní vazivo
+* síť kolagenních a elastických vláken - umožňují posun kůže
+* tukové buňky
+    - tepelná izolace
+    - zásoba energie
+    - zásoba vitamínů
+* škára i vazivo jsou mezodermálního původu
 
+##Onemocnění
+* akné - bakterie, případně trudník lidský - zánět
+* ekzémy - zánětlivá onemocnění kůže
+* lupénka - a autoimunitní onemocnění, porucha rohovatění kůže
+* bradavice - často virového původu
+* opar, pásový opar
+* dermatomykózy
+* névus - znaménka
+* bércové vředy - porucha výživy kůže
+* vitiligo - zničení pigmentových buňek
+* melanom - rakovina kůže - UV záření
+* Xeroderma pigmentosum - nefunkční sprvný systém DNA - UV záření, dědičné
+* Nemoc motýlích křídel - vznik puchýřů na kůži i sliznicích otevřené rány - infekce - dědičné, neléčitelné
+* 

@@ -436,7 +436,7 @@
 * Mn - nedostatek - sval. křeče, poruchy růstu
 * Jód
   * součást hormonů štítné žlázy - tyroxin
-  * nedostatek - struma, kterenismus, poruchy růstu
+  * nedostatek - struma, kretenismus, poruchy růstu
 * P
   * ve všech tkáních
   * nedostatek -> kazivost zubů

@@ -97,3 +97,96 @@ tam přivádějí produkované hormony, tam přivádějí produkované hormony
     - u žen se uplatňuje při porodu - stahy
     - zajišťuje vylučování mléka
 * oxytocin
+    - u mužů ve stopovém množství
+    - u žen se uplatňuje při porodu - stahy
+    - zajišťuje vylučování mléka
+
+###Šišinka - epifýza
+* melatonin
+* ovlivňuje bdění a spánek
+* uplatňuje se v biorytmech - vnitřní hodiny
+    - tlumí fci gonád syntéza klesá při intenziním světle
+    - světlo tlumí sekreci hormonu
+* řídí ukládání barviva v kůži
+
+###Štítná žláza
+* 2 laloky
+* tyroxin
+* trijodoxin
+    - folikulární buňky
+* kalcitonin
+    - parafolikulární buňky - mimo folikuly
+
+####Tyroxin, trjodtyronin
+* k tvorbě potřebý jod
+    - nedostatek se projeví zvětšením štítné žlázy
+    - struma - vole - poruchy činnosti
+* ovlivňují oxidační procesy
+    - kataboliké pochody - uvolňování energie
+    - zvyšují metabolismus
+    - působí na růst a vývoj
+    - zvyšují teplotu v rámci termoregulace
+* ovlivňují aktivitu NS
+    - při snížené tvorbě se zpomalují mentální procesy
+* hypofunkce -> hypotyreóza
+    - u dětí - mentální retardace - kreteismus - snižování IQ
+        - poruchy růstu i vývoje pohl soustavy
+    - u dospělých
+        + snížený metabolismus
+        + únava, útlum činnosti CNS, snižování teploty aj
+* hyperfunkce -> hypertyreóza
+    - zvýšená látková přeměna
+    - hubnutí
+    - psychosomatický neklid
+    - basedowova choroba - oči vystupují z důlků
+* kalcitonin
+    - parafolikulární buňky
+    - snižuje hladinu Ca v krvi
+    - ukládá jej do kostí
+* řízení činnosti štítné žlázy - tyreotropní hormon
+* chronická nervová zátěž může vyprovokovat chorobné zvýšní činnosti štítné žlázy
+
+####Příštítná tělíska
+* parathormon
+* zvyšuje propustnost buněk pro vápenaté a fosfátové ionty
+* podílí se na tvorbě vitamínu D - nedostatek - osteomalacie
+* hypofunkce - tetanie - křeče svalů - nebezpečné u dýchacích svalů
+* řízeno hladinou Ca v krvi
+
+###Slinivka břišní
+* endokrynní část
+* langerhansovy ostrůvky
+* alfa buňky produkují glukagon
+* beta buňky produkují inzulin
+
+####Inzulin
+* beta buňky
+* zvyšuje propustnost buněčných membrán pro vstup glukózy a aminokyselin do buňek
+    - snižje hladinu glukózy v krvi
+    - podporuje tvorbu zásob glukózy
+    - anabolický účinek na S, T, B (sacharidy, tuky, bílkoviny)
+* hypofunkce - hyperglykémie
+    - glukóza se hromadí v krvi, váže se na bílkoviny, poškozuje orgány
+    - hyperglykemické bezvědomí - šok
+* diabetes mellitus - cukrovka
+    - inzulin dependentní diabetes I. typu
+        + těžší typ
+        + u mladších osob
+        + podmíněna geneticky
+        + podávání inzulinu
+    - inzulin nondependentní diabetes II. typu
+        + u dospělých a staších sosob
+        + důsledek chybné výživy
+        + vyčerpání beta buňek
+        + dietní opatření
+* hyperfunkce - hypoglykemie
+    - nadbytek inzulinu
+    - snížená hladina glukózy
+    - při 2,2mmol/l křeče až bezvědomí
+* normální hladina cukru **gylkemie = 4.5 - 6.5 mmol/l**
+* glykagon
+    - alfa buňky
+    - antagonista inzulinu
+    - zvyšuje hladinu glukózy v krvi
+
+###Nadledviny

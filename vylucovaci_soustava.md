@@ -60,7 +60,6 @@
         + přívodné tepénky
         + klubíčko kapilár
 
-
 ######Filtrace
 * ledvinami za den proteče 1500-1800 litrů krve
 * 150-180l ultrafiltrát - primární moč

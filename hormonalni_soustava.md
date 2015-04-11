@@ -190,3 +190,59 @@ tam přivádějí produkované hormony, tam přivádějí produkované hormony
     - zvyšuje hladinu glukózy v krvi
 
 ###Nadledviny
+* horní pól nadvedlon
+* dvě odlišné tkáně
+    - kůra
+    - dřeň
+* řízeny pomocí ACTH(adrenokortikotropní hormon adenohypofýzy)
+
+####Kůra - cortex
+* mezodermální původ
+* kortikoidy - steroidní hormony odvozeny od cholesterolu
+* mineralokortikoidy - zevní vrstva kůry
+    - aldosteron
+        + hospodaření s vodou a ionty Na a K
+        + aktivuje sodíkodraslíkovou pumpu
+* glukokortikoidy - střední vrstva kůry
+    - kortizol - nejdůležitější
+        + účastní se přeměny S,T,B
+        + zvyšuje pohotovost organismu k zátěži
+        + protizánětlivý a protialergický účinek
+            * léčba zánětů
+            * ve vyšších dávkách snížení reakcí imunitního systému
+            * využití při transplantacích
+* anabolické a pohlavní hormony - vnitřní vrstva kůry
+    - anabolické - zajišťují výstavbu tkání
+    - androgeny
+        + mužské pohlavní hormony
+        + testosteron
+        + nadprodukce u žen -> maskulinizace
+    - estrogeny, gestagen
+        + ženské pohlavní hormony
+        + nadprodukce u mužů -> feminizace
+* addisonova choroba
+    - nedostatek hormonů nadledvin - kortizolu a aldosteronu
+    - autoimunitní choroba
+    - protilátky napadají vlastní nadledviny
+        + chronická slabost, ochablost svalů, hypogylkemie
+        + nechutenství, nutkání ke zvracení, průjem
+        + nízký krevní tlak
+        + podrážděnost, deprese
+
+####Dřeň
+* ektodermálního původu
+* řízena **sympatikem**
+* produkuje tzv. stresové hormony, které aktivují organismus při psychycké i fyzické zátěži
+* adrenalin
+    - zvyšuje srdeční frekvenci, systolický tlak, způsobuje vazodilataci ve svalech, vazokonstrikci v kůži, uvolňuje svaly dýchycí soustavy, zvyšuje hladinu krevní glukózy
+* noradrenalin
+    - vazokonstrikce cév, zvýšení diastolického tlaku, je mediáltorem(neurotransmiterem sympatiku)
+* oba sohormony zajišťují katabolismus tuků a glykogenu a zvyšují průtok krve mozkem
+* původní význym
+    - obranné reakce organismu
+    - svyl, srdce, CNS
+* v současnosti
+    - zátěž má spíš emoční význam
+    - stará reakce organismu neodpovídá potřebě -> adaptační nemoci
+* nadměrná intenzita a trvání stresu může vést až ke stavu úplně fyz a psych vyčerpanosti
+

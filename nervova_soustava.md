@@ -19,4 +19,19 @@
 
 ##Nervová tkáň
 
-![]("https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Neuron_(cesky)-1.svg/1280px-Neuron_(cesky)-1.svg.png")
+![](http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Neuron-cs.jpg/350px-Neuron-cs.jpg)
+
+##Synapse
+* snypatický knoflík
+* vezikuly (váčky)
+* neurotransmitter (mediátor)
+    - excitační
+        + acetylcholin
+        + noradrenalin
+        + serotonin
+    - inhibiční
+        + kyselina gama- aminomáselná(GABA)
+        + glycin
+* presynaptická membrána
+* synaptická štěrbina
+* postsynaptická membrána

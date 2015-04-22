@@ -19,4 +19,4 @@
 
 ##Nervová tkáň
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Neuron_(cesky)-1.svg/1280px-Neuron_(cesky)-1.svg.png)
+![]("https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Neuron_(cesky)-1.svg/1280px-Neuron_(cesky)-1.svg.png")

@@ -240,9 +240,50 @@ tam přivádějí produkované hormony, tam přivádějí produkované hormony
 * oba sohormony zajišťují katabolismus tuků a glykogenu a zvyšují průtok krve mozkem
 * původní význym
     - obranné reakce organismu
-    - svyl, srdce, CNS
+    - svaly, srdce, CNS
 * v současnosti
     - zátěž má spíš emoční význam
     - stará reakce organismu neodpovídá potřebě -> adaptační nemoci
 * nadměrná intenzita a trvání stresu může vést až ke stavu úplně fyz a psych vyčerpanosti
 
+###Varlata
+* leydigovy buňky - produkují testosteron
+* testosteron
+    - podporuje rozvoj můžských pohlavních orgánů
+    - ovlivňuje spermatogenezi
+    - umožňuje rozvoj sekundárních pohlavních znaků
+    - ovlivňuje mužské chování
+    - podporuje tvorbu bílkovin
+    - urychluje zánik růstových chrupavek
+
+###Vaječníky
+* graafův folikul (vajíčko obklopené folikulárními buňkami)
+* folikulární buňky produkují estrogeny
+    - podporují rozvoj ženských pohlavních orgánů
+    - umožňují rozvoj sekundárních pohlavních znaků
+    - ovlivňují zrání folikulů, menstruační cyklus a ovulaci
+    - ovlivňují sexuální chování
+* žluté tělísko(ve vaječníku)
+    * produkuje gestageny
+    * progesteron je nejdůležitější
+    * ovlivňuje vznik a průběh těhotenství
+
+###Placenta
+* vznik při těhotenství
+* produkuje estrogeny a progesteron
+    - zajišťujě normální průběh těhotenství
+    - podporuje růst a vývoj plodu a růst mléčné žlázy
+* coriogonadotropin
+    - udržuje žluté tělísko ve vaječníku
+    - objevuje se již v 8-1é dni těhotenství, zjišťován těhotenskými testy
+
+##Tkáňové hormony
+* žaludek, střevo
+    - gastrointestinální hormony
+        + stimulují nebo inhibitují činnost žláz a orgánů
+* ledviny
+    - renin - podporuje tvorbu aldosteronu
+    - erytropoetin - zajišťuje erytropoezu
+* játra - somatomedin
+* mozek - liberiny, statiny
+* 

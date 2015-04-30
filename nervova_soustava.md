@@ -83,4 +83,31 @@
     - Antidepresivum Prozac
 
 ##Mozek - ontogeneze
- 
+* hlavová část nervové trubice (z ektodermu) diferencuje se na
+    - přední mozek
+    - středí
+    - zadní
+* další diferenciace
+    - koncový mozek
+    - mezimozek
+    - střední mozek
+    - varolův most
+    - mozeček
+    - prodloužená mícha
+
+###Mozkový kmen
+* vývojově nejstarší část
+* střední mozek
+* most varolův
+* prodloužená mícha
+* centra životně důležitých funkcí
+* převodní soustava do vyšších center mozku
+    - retikulární informace - síťovitě uspořádané buňky
+
+###Mozek
+* v dutině lební
+* 3 meningy
+    - tvrdá plena
+    - 2 měkké pleny
+* mozkomíšní mok - mezi měkkými plenami
+    * funkce 

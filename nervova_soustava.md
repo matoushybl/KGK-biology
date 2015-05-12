@@ -111,3 +111,67 @@
     - 2 měkké pleny
 * mozkomíšní mok - mezi měkkými plenami
     * funkce 
+        - ochranná
+        - trofická
+        - distribuční
+
+####Mozkové komory
+* I a II komora - koncový mozek
+* III komora - mezimozek
+* IV komora - prodloužený mícha
+* míšní kanálek - mícha
+
+####Koncový mozek
+* největší část, překrývá ostatní části
+* 2 hemisféry
+* spojeny kalosním tělesem (corpus callosium)
+
+####Šedá hmota koncového mozku
+* ozková kůra
+* bazální ganglia (spodinové uzliny)
+* limbický systém
+
+####Bílá hmota koncového mozku
+* tvoří ji dráhy
+    - asociační (spojují dráhy téže hemisféry)
+    - komisurální (spojují stejná místa obou hemisfér)
+    - projekční (spojují kůru s nižšími oddíly CNS - např. kmenem mozkovým)
+
+####Mozková kůra
+* 2-5 nm
+* 6 vrstev neuronů
+* 14 mld neuronů (celý mozek 30 mld)
+* pyramidové buňky převažují
+* gyrifikace - zvrásnění (od 6. měsíce nitroděložního života)
+* závity
+* rýhy - brázdy
+
+> je tady protože jsou tam brázdy
+
+
+
+####Laloky koncového mozku
+* hlavní brázdy
+    - centrální = ústřední Rolandova
+    - postranní jáma - nad spánkovým lalokem
+* 4 laloky
+    - čelní
+    - temnní
+    - týlní
+    - spánkový
+
+####Funkční členění mozku
+* korová projekční centra - oblasti pro vnímání podnětů z okolí
+    - motorické centrum - čelní lalok - před centrální brázdou
+        + ústředí vědomých pohybů
+    - senzorické
+        + temenní lalok - za centr. brázdou
+        + vnímání podnětů z kůže a svalů
+    - sluchové centrum
+    - zrakové centrum
+* centra dominantní hemisféry
+    - brocovo centrum řeči
+    - vizuální centrum řeči
+    - akustické centrum řeči
+    - centrum chuťové
+    - centrum čichové

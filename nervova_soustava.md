@@ -175,3 +175,42 @@
     - akustické centrum řeči
     - centrum chuťové
     - centrum čichové
+
+####Asymetrie hemisfér
+* dominantní hemisféra - u praváků levá
+    - centra práce a řeči 
+    - logické myšlení
+    - vědecky exaktní myšlení
+* nedominantní hemisféra - u praváků pravá
+    - abstraktní myšlení
+    - výtvarný, hudební projev
+* k všestrannému chápání jevů - spojení obojího
+* zkřížená lateralita - _Normální člověk má jednu hemisféru větší. Chuck Norris má větší obě._
+
+####Aosciační oblasti - spíče pro seminárníky
+* umožňují propojení různých částí mozkové kůry
+* vznik podmíněných reflexů a vyšší nervové činnosti
+* -> učení, myšlení, paměť
+* lidské vědomí
+
+####Bazální ganglia
+* **spodinové uzliny**
+    - jádro ocasaté
+    - jádro čočkovité
+* podkrovní **ústředí mimopyramidových drah**
+    - reagují na volní amimovolní pohyby
+* uplatňují se **při automatizovaných pohybech**
+    - plavání atd.
+
+####Lymbický systém
+* límec(limbus) kolem mozkového kmene
+* **šedá hmota**
+    - korový lem
+    - jádra
+    - hypotalamus
+* **emoční mozek**
+    - komplexní instinktivní chování
+* **ukládání paměťových stop**
+* **nadřazená řídicí centra**
+    - pro dýchání, srdeční činnost, činnost trávící soustavy aj.
+    - mnohé z těchto funkcí souvisí s emočními reakcemi

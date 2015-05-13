@@ -214,3 +214,8 @@
 * **nadřazená řídicí centra**
     - pro dýchání, srdeční činnost, činnost trávící soustavy aj.
     - mnohé z těchto funkcí souvisí s emočními reakcemi
+###Mezimozek
+* **Talamus** - hrbol
+* **Hypotalamus** - podhrbolí
+* **Epifýza** - šišinka
+* III. komora mozková

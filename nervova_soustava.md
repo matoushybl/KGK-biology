@@ -187,7 +187,7 @@
 * k všestrannému chápání jevů - spojení obojího
 * zkřížená lateralita - _Normální člověk má jednu hemisféru větší. Chuck Norris má větší obě._
 
-####Aosciační oblasti - spíče pro seminárníky
+####Aosciační oblasti - spíše pro seminárníky
 * umožňují propojení různých částí mozkové kůry
 * vznik podmíněných reflexů a vyšší nervové činnosti
 * -> učení, myšlení, paměť
@@ -198,7 +198,7 @@
     - jádro ocasaté
     - jádro čočkovité
 * podkrovní **ústředí mimopyramidových drah**
-    - reagují na volní amimovolní pohyby
+    - reagují na volní a mimovolní pohyby
 * uplatňují se **při automatizovaných pohybech**
     - plavání atd.
 
@@ -219,3 +219,65 @@
 * **Hypotalamus** - podhrbolí
 * **Epifýza** - šišinka
 * III. komora mozková
+* **útrobní mozek**
+    - nejvyšší centrum řídící činnost vnitřních orgánů
+        + **centrum parasympatiku**
+        + **centrum sympatiku**
+* **reflexní centra** pro
+    - neurosekreci, termoregulaci, osmoregulaci
+    - výměnu látkovou ve tkáních
+    - regulaci spánku a bdění
+    - sexuální chování aj.
+* **převodní ústředí** ke koncovému mozku
+    - vytváření pocitu vlastního já
+    - výběr informací
+
+####Střední mozek
+* součást mozkového kmene
+    - **čtverhrbolí + 2 stonky mozkové**
+        + 2 přední hrbolky - **centra pro pohybovou souhru očí**
+        + zadní hrbolky - **reflexní pohyb hlavy za zdrojem zvuku**
+* **šedá hmota**
+    - substancia nigra (černé jádro)
+        + dopamin + bazální ganglia(koncový mozek)
+    - **regulace svalového napětí**
+        + parkinsonova chorba
+        + úbytek buňek -> úbytek dopaminu
+* vycházejí odsud
+    - **2 páry mozkových nervů**
+        + okohybný
+        + kladkový
+    - **mimopyramidové dráhy**
+        + ovlivnění svalového napětí a rovnováhy
+        + **automatické a poloautomatické pohyby - chůze, tanec, plavání**
+
+####Varolův most
+* pouze u savců
+* spojuje koncový mozek s mozečkem - **přepojovací centrum**
+    - tvoří jej především **dráhy mozkové**
+    - navozuje **rytmus bdění a spánku**
+    - aktivuje mozkovou kůru, udržuje ji v bděleém stavu
+* šedá hmota - jádra mozkových nervů
+    - **trojklanný nerv** - sv. žvýkací, zuby, kůže hlavy aj.
+
+####Prodloužená mícha
+* v lebeční dutině
+* IV mozková komora
+* šedá hmota - jádra **7 párů mozkových nervů**
+* ** centra nepodmíněných reflexů**
+    - potravních - polykací slinění
+    - obranných - kýchání, kašel
+    - centra životně důležitých funkcí - dýchací, kardiovaskulární
+* bílá hmota - **senzorické a motorícké dráhy**
+
+####Mozeček
+* 2 hemisféry - červ mozečkový
+* kůra mozečková - šedá hmota
+    - gyrifikace
+    - purkyňovy buňky (největší, nejsložitější)
+* cetrum rovnováhy
+* regulace a koordinace pohybů
+    - jemných a přesných pohybů
+    - důležitý pro získávání pohybových návyků
+* regulace svalového napětí
+

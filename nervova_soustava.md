@@ -281,3 +281,54 @@
     - důležitý pro získávání pohybových návyků
 * regulace svalového napětí
 
+####Páteřní mícha
+* v páteřním kanálu
+* 40-45 cm
+* po L2
+* svazek nervů
+
+#####Stavba míchy
+* pleny - obaly
+    - tvrdá a 2 měkké, mezi nimi mozkomíšní mok
+* podélné rozdělení - rýhy(6x)
+    - **přední centrální rýha**
+    - **zadní centrální rýhy**
+    - přední postranní rýhy (přední kořeny míšní) - výstup signálu z míchy
+    - zadní postranní rýhy (zadní kořeny míšní) - vstup signálu do míchy
+* centrální kanálek míšní - mozkomíšní mok
+
+![](http://www.velkaencyklopedie.estranky.cz/img/mid/159/micha.jpg)
+
+* šedá hmota míšní
+    - shluky nerv. buňek (těla, dendrity)
+    - zadní rohy míšní
+        + končí senzitivní vlákna smyslových buňek
+        + interneurony (buňky vřazené)
+    - přední rohy míšní
+        + tvořeny motoneurony (hybné)
+* bílá hmota míšní
+    - svazky vláken - dráhy míšní
+
+######Míšní dráhy
+* svazky vláken
+    - tvořeny axony
+    - obaleny bílou hmotou míšní
+* součást CNS
+* rozdělení
+    - krátké dráhy míšní
+        + mezi míšními segmenty
+    - dlouhé míšní dráhy
+        + spojují část CNS
+        + vzestupné
+        + zadní rohy - zadní provazce - vyšší centra CNS
+        + z míchy do mozku
+        + příklad
+            * dráha míchomozečková - vede do mozečku
+    - sestupné - motorické
+        + vycházejí z mozku, končí v motoneuronech míchy
+        + převážně přední provazce míchy
+        + patří sem dráha pyramidová
+        + dráhy mimopyramidové
+* 
+
+

@@ -329,6 +329,41 @@
         + převážně přední provazce míchy
         + patří sem dráha pyramidová
         + dráhy mimopyramidové
+* dráha pyramidová
+    - hlavní motorická dráha
+    - dráha práce a řeči
+        + vyházejí z pyramidových buněk šedé kůry koncového mozku
+    - vede informace pro volní pohyby kosterního svalstva (příčně pruhovaného svalstva)
+    - vývin se dokončuje po narození - mezi 2. a 4. rokem
+* dráhy mimopyramidové
+    - vycházejí z šedé hmoty mozku, ale **nikdy nevycházejí z šedé kůry mozkové**
+    - podílejí se na udržení svalového napětí
+    - ovládají mimovolní automatické a poloautomatické pohyby (chůze, tanec, plavání)
+
+######Funkce míchy
+* převodní
+* představuje nejnižší reflexní ústředí
+* centrum nepodmíněných reflexů
+    - napínací, obranné, vyprazdňovací, sekrece potu, ejakulace
+* dráhy se kříží (hranice páteřní a prodloužené míchy)
+* přerušení drah - poruchy hybnosti
+    - plegie - úplné ochrnutí
+    - paraplegie - obě dolní končetiny
+    - paréze - částečné ochrnutí
+
+![](http://nd04.jxs.cz/535/943/f8ff5b22e3_73363729_o2.jpg)
+> **efektor** 
+
+##Obvodové - periferní nervy
+* nerv - soubor axonů, navzájem oddělených vazivovými orgány
+* obvodové nervy spojují oběma směry CNS s orgány a tkáněmi celého těla
+* dělí se na nervy
+    - mozkové(hlavové)
+    - míšní
+    - vegetativní = autonomní NS
+
+###Nezvy mozkové - hlavové
+* 12 párů - začínají v jádrech mozkových nervů v některých částech mozku
 * 
 
 

@@ -127,7 +127,7 @@
 * spojeny kalosním tělesem (corpus callosium)
 
 ####Šedá hmota koncového mozku
-* ozková kůra
+* mozková kůra
 * bazální ganglia (spodinové uzliny)
 * limbický systém
 
@@ -364,6 +364,48 @@
 
 ###Nezvy mozkové - hlavové
 * 12 párů - začínají v jádrech mozkových nervů v některých částech mozku
+
+
+###Nervy míšní
+* 31 párů
+    - 8 krčních
+    - 12 hrudních
+    - 5 bederních
+    - 5 křížových
+    - 1 kostrční
+* vystupují meziobratlovými otvory
+* obsahují senzitivní i motorická vlákna
+* některé se vzájmně propojují a tvoří pleteně
+    - např. pleteň
+        + krční
+        + pažní
+        + bedrokřížová
+
+##Somatická nervová soustava
+* nervy mozkové + nervy míšní = nervy mozkomíšní = somatická nervová soustava
+* zajišťuje motorickou činnost - kosterní - příčně pruhované svalstvo
+    - obrana
+    - vyhledání potravy
+    - komunikace
+    - adaptivní charakter
+* zapojeny různé oblasti kůry i oblasti podkorové
+* vytvářejí se složité nervové obvody
+
+###Tři úrovně řízení motorické činnosti
+* mícha
+    - obrana
+* motkový kmen
+    - získávání potravy, automatické a poloautomatické pohyby, provádění neúmyslných pohybů
+    - opěrná motorika - udržování polohy postoje
+    - vycházejí odsud nepřímé dráhy - mimopyramidové
+* morková kůra
+    - cílená motorika - vědomé pohyby, jemné
+    - přímá dráha - není tvořena více neurony, vlákna vedou k motoneuronům v míše
+* dráha pyramidová
+
+###Nervy vegetativní
+* nervy autonomní = vegetativní = útrobní
+* vystupují z mozku a míchy
 * 
 
 

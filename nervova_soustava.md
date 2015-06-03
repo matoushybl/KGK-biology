@@ -406,6 +406,92 @@
 ###Nervy vegetativní
 * nervy autonomní = vegetativní = útrobní
 * vystupují z mozku a míchy
-* 
+* jako součást smíšených nervů
+* **řídí činnost vnitřních orgánů** (hladká svalovina)
+* 2 skupiny
+    - nervy sympatické - **sympatikus**
+    - nervy parasympatické - **parasympatikus**
+
+![](http://fblt.cz/wp-content/uploads/2013/12/Kapitola-12-05-01.jpg)
+
+####Sympatikus
+* vystupuje z hrudní a bederní míchy společně s míšními nervy
+    - pak se odděluje a vstupuje do sympatických uzlin uložených podél páteře, v uzlinách přepojení na další neuron -> inervace vnitřních orgánů
+* **připarvuje org. na zvýšený výdej E**
+* podporuje katabolické procesy
+* povzbuzuje srdeční činnost
+* zpomaluje trávicí pochody
+* rozšiřuje průdušky
+* rozšiřuje zornice
+* snižuje průtok krve v kůži a břišních orgánech
+* v synapsích se uplatňují adrenalin a noradrenalin
+
+####Parasympatikus
+* vystupuje z mozku, společně s některými mozkovými nervy a z křížové míchy společně s míšními nervy
+    - vstupuje do parasympatických uzlin v těsné blízkosti inervovaných orgánů
+* je aktivní v době odpočinku a hromadění zásob - podporuje katabolické děje
+* je antagonistou sympatiku (protichůdné působení)
+* zajišťuje zotavení organismu
+* zpomaluje srdeční činnost
+* zužuje průdušky
+* zesiluje peristaltiku střev
+
+* Pro zdraví je důležité zachování rovnováhy mezi aktivitou sympatiku a parasympatiku
+* nepřiměřená fyzická námaha a psychické vypětí způsobují převahu činnosti sympatiku -> celkový nepříznivý stav organismu
+
+##Řízení činnosti vnitřních orgánů
+* činnost vegetativní NS je nezávislá na naší vůli
+* některé funkce mohou být podřízeny volní kontrole
+* úrovně řízení vegetativní NS
+    - mícha
+    - prodloužená mícha
+    - hypotalamus
 
 
+##Nervová činnost
+* relfex = základní fyziologická jednotka nervové činnosti
+* reflex = odpověď organismu na podněty z vnitřního i vnějšího prostředí
+* reflexní oblouk
+    - receptor
+    - dostředivá nervová dráha
+    - CNS
+    - odstředivá nervová dráha
+    - efektor (výkonný orgán)
+
+###Míšní reflexy
+* monosynaptický reflexní oblouk - čéškový
+    - jednoduchý, s jednou synapsí
+* disynaptický reflexní oblouk - smyslový neuron, interneuron, motorický neuron
+* polysynaptické reflexy - více vmezeřených neuronů
+    - složitější obranné reflexy
+
+###Reflexy nepodmíňené, nižší nervová činnost
+* nepodmíněné
+    - dráhy jsou geneticky dány, reflex probíhají vždy po stejné dráze
+    - na týž podnět táž reakce
+    - neumožňují se dostatečně přizpůsobit podmínkám prostředí
+* centra jous v šedé hmotě všech částí mozku (mimo kůru koncového mozku)
+* nejsložitější jsou instinktiy
+    - pud sebezáchovy
+    - pud rozmnožování
+* u člověka jsou registrovány a usměrňovány mozkovou kůrou
+
+###Reflexy podmíněné, vyšší nervová činnost
+* získané - naučené
+    - vytvářejí se až na určitém stupni vývoje NS
+    - umožňuje adaptaci na měnící se podmínky
+    - na týž podnět se mohou vybavit různé reakce
+* jsou to dočasná nervová spojení
+    - vznikají a zanikají během života jedince
+    - musí se posilovat jinak vyhasínají
+    - centra jsou v mozk kůře
+    - podmínkou pro vytváření podmíněných reflexů je paměť
+
+####Proces vzniku podmíňených reflexů = učení
+* I.P.Pavlov
+    - ruský fyziolog
+    - pokusy se psy
+* pojmy
+    - podnět biologicky významný - vyvolávající nepodmíňený reflex
+    * podnět biologicky nevýznamný - doprovodný - zvuk zvonku
+* každý z podnětů má svůj reflexní oblouk

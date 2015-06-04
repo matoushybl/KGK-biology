@@ -495,3 +495,90 @@
     - podnět biologicky významný - vyvolávající nepodmíňený reflex
     * podnět biologicky nevýznamný - doprovodný - zvuk zvonku
 * každý z podnětů má svůj reflexní oblouk
+* podmíněné refley
+    - vznkají na základě spojení nepodmíňeného reflexu (nutnost příjmu potravy) s podmíněným podnětem (světlo)
+    - do mozku současně informace ze 2 receptorů
+    - vznikají 2 ohniska podráždění
+* opakováním této situace dojde ke vzniku nových propojení mezi 2 ohnisky podráždění = posilování
+* není-li podmíněný podnět spojován s nepodmíněným reflexem vyhasíná
+
+###První a druhá signální soustava
+* První
+    - u vyšších živočichů a člověka
+    - signály (= odraz reality)
+    - podmíněné refelxy se vytvářejí jen pomocí smyslových signálů
+        + šedá kůra hemisfér
+        + základ konkrétního myšlení
+* Druhá
+    - jen u člověka
+    - signál signálu = slovo
+    - =abstraktní podnět -> abstraktní myšlení
+    - kůra dominantní hemisféry
+
+##Paměť
+* umožňuje nám učit se
+* zodpovídá za inteligenci a vědomí
+* rozlišujeme
+    - senzorickou - ultrakrátkou paměť
+        + senzorický registr na sítnici
+    - primární - krátkodobá - operační
+        + s omezenou kapacitou - informace mizí do 1 min
+    - sekundární - dlouhodobá paměť
+        + velká kapacita pamatování - minuty až roky
+        + pomalu se vybavují informace
+    - terciální paměť
+        + čtení, psaní, jméno, nezapomínají se celý život
+        + vybavitelnost je rychlá - velká kapacita
+
+##Poruchy a onemocnění nervové soustavy
+* amnézie
+    - ztráta primární paměti
+    - obtíže při vybavování ze sekundární paměti
+    - příčiny - otřesy mozku, elektrošok
+* zapomínání
+    - překrytí novou informací
+    - interferencí s dříve nebo později naučeným
+    - podílejí se i onemocnění - alzheimerova choroba
+* CJN - Creuzfeld - Jackobova choroba
+    - BSE - priony
+* CMP - centrální mozková příhoda
+* klíšťová encefalitida
+* meningitida
+* epilepsie
+    - záchvatové onemocnění
+    - během záchvatu - chaotické neřízené elektrické výboje
+
+###Alzheimerova choroba
+* degenerují mozkové buňky
+    - celková hmota mozku se zmenšuje
+    - dochází k poklesu duševních schopností
+* stadia
+    - zvýšená zapomnětlivost, úzkost, deprese
+    - mezery v paměti co se čerstvých zážitků týká
+        + úzkostlivost, změny nálady, proměna osobnosti
+    - dezorientace a zmatenost - nejvyšší stupěň
+        + abnormální reflexy
+        + agresivita || odevzdanost
+
+###Parkinsonova choroba
+* odumírání nervových buněk
+    - bazální ganglia
+    - střední mozek - černé jádro
+    - nevytváří se dopamin - neurotransmiter
+* problémy
+    - třes, strnulý postoj, nevyvážená chůze, drobné krůčky
+* intelekt nepostižen
+    - mluvení váhavější, písmo se zmenšuje
+* bez léčení - invalidita
+    - u třetiny známky demence
+    - v budoucnu kmenové buňky
+
+###Roztroušená skleróza
+* progresivní onemocnění CNS
+* původ neznámý
+* rozpad myelinových obalů(mozek, mícha)
+* příznaky různá místa
+* zhoršování, zlepšování
+* destruuje a poškozuje i nervové dráhy
+* genetické faktory, retroviry, autoimunitní?
+* léčba - výzkum

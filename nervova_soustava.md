@@ -582,3 +582,223 @@
 * destruuje a poškozuje i nervové dráhy
 * genetické faktory, retroviry, autoimunitní?
 * léčba - výzkum
+
+##Smyslové orgány
+* čidla - analyzátory - receptory
+* smyslové buňky = receptorové buňky
+* podněty - mechanické, chemické, tepelné, světelné záření aj.
+* rozlišení smyslových buněk dle podnětů
+    * mechanoreceptory
+    * fotoreceptory
+    * chemoreceptroy
+    * termoreceptory
+    * nocireceptory
+* rozdělení dle místa působení podnětu
+    * exteroceceptory - z vnějšího prostředí
+    * interoreceptory - z vnitřních orgán§
+    * proprioreceptory - ze svalů a šlach
+* repceptorové buňky - převádějí energii podnětů a nervovou aktivitu - vzruch
+* celé čidlo - analyzátor - složení:
+    * periferní konec se smyslovými buňkami
+    * dostředivé orgány (zrpavidla 3 neurony)
+        * k míše, prodložené míše nebo do středního mozku
+        * do talamů mezimozku do mozkové kůry
+        * do mozkové kůry
+    * korová část CNS - rozbor - analýza situace
+
+##Ústrojí zrakové
+* oční koule
+* přídatné orgány oční
+    * víčka s řasami
+    * spojivka - blanka - víčka -> oční koule
+    * spojivkový vak
+    * slzná žláza - nad oční koulí
+        * slzy
+        * k vnitřnímu koutku -> do slzného váčku -> slzovodem do nosní dutiny
+        * chrání před vysycháním
+        * před mikroorganismem
+    * okohybné svaly - 6x
+        * svalovina příčně pruhovaná
+
+###Oční koule - bulbus
+* v očnici, v tukové tkáni
+* bělima
+    * vazivová blána - 4/5 povrchu - O,3 -1mm
+    * upínají se na ni okohybné svaly
+    * přechází v rohovku
+* rohovka
+    * vyklenutá, průhledná, chráněna slzami
+* cévnatka
+    * zadní 2/3 oční koule
+    * cévy pro sítnici, pigment
+    * vpředu přechází v řasnaté těleso
+* řasnaté těleso
+    * zavěšení čočky
+    * a její akomodace - změny zakřivení
+* čočka
+    * 4mm, dvojvypuklá
+    * rosolovitá průhledná hmota
+    * povrch - vazivové pouzdro
+* duhovka
+    * pigment, množství - určuje barvu očí
+    * terčík z hladkého svalstva
+    * s kruhovým otvorem
+* zornice - panenka - zřítelnice
+    * otvor v duhovce
+    * rozšiřování a zužování - hl.sv.duhovky
+    * zornicový reflex
+* přední a zadní komora oční
+    * vyplněny komorovou vodou
+* sklivec
+    * vodnatý, řídce rosolovitý
+    * mezi čočkou a sítnicí
+* sítnice - retina
+    * 0,2 - 0,4mm
+    * 4 vrstvy buněk
+        * pigmentová
+        * smyslové buňky
+            * tyčinky čipky
+        * bipolární buňky
+        * nervové buňky
+    * žlutá skrvna
+    * slepá skrvna
+###Vidění
+* zrakové ústrojí je citlivé na elmag. vlnění o vln. délce 400 - 700nm
+* tyčinky
+    - odstíny šedi vidění za šera a v noci
+    - barvivo (protein) rhodopsin - citlivý na světlo
+    - po absorpci světla - rozpad na opsin (bezbarvý protein) a retinal (derivát vitaminu A)
+    - vznik vzruchu, zrakový nerv, příp. aktivace čípku
+    - ve tmě - syntéza rodopsinu
+* čípky
+    - méně citlivé na světlo
+        + aktivní při větším osvětlení
+        + pro vidění ve dne
+        + žlutá skvrna - nejvíce - nejostřejší vidění
+    - tři druhy
+        + rozlišují tři druhy barev - RGB - kombinace - barevné vjemy
+        + současným drážděním všech druhů - vjem bílého světla
+    - schopnost rozličovat barvy - barvocit
+
+####Optická stavba oka
+* světlolomný aparát
+    - rohovka
+    - komorová voda
+    - čočka
+    - sklivec
+    - na rozhraní těchto prostředí se láme světelný parsek
+* na sítnici se promítá obraz zmenšený a obrácený
+* poruchy lomovitosti - refrakční vady
+    - krátkozrakost
+    - dalekozrakost
+
+####Akomodace čočky
+* změna tvaru
+    - umožňuje zaostření na blízké předměty
+    - stah svalstva v řasnatém tělese
+    - vidění nablízko - trvalé namáhání očí
+    - pohled do dálky akomodaci nevyžaduje
+* s věkem čočka ztrácí pružnost, hůře akomoduje
+    - horší vidění blízkých předmětů
+
+
+####Vady a onemcnění
+* šilhání - porucha okohybného svalu nebo jeho nervu
+* šeroslepost - z nedostatku vitaminu A
+* barvoslepost - poruchy barevného vidění, nejčastěni daltonismus (nerozlišuje červenou a zelenou)
+
+#####Refrakční vady
+* poruchy lomivosti
+* dalekozrakost
+    - hypermetropie
+    - promítnutí za sítnicí
+    - spojky
+* krátkozrakost
+    - myopie
+    - promítnutí před sítnici
+    - rozptylky
+* dalekozrakost stařecká
+    - čočka ztrácí pružnost
+    - nevidí blízké předměty
+* astigmatismus
+    - vada zakřivení rohovky
+* šedý zákal
+    - katarakta
+    - snižuje se průhlednost čočky
+    - chirurgické řešení
+* zelený zákal
+    - glaukom
+    - zvýšený nitrooční tlak
+    - neléčeno - vede ke slepotě
+* tupozrakost
+    - ambyopie
+    - syndrom líného oka u dětí
+    - oko a mozek nespolupracují
+    - okluzor na zdatnější oko
+
+##ústrojí sluchové
+* mechanoreceptor
+* ucho - zevní, střední a vnitřní
+* zevní
+    - boltec s chrupavčitou výztuhou
+    - zvukovod (kůže, mazové žlázky, chloupky)
+* bubínek - 0.1 mm
+* střední ucho
+    - systém vzduchem vyplněných dutin vystlaných sliznicí
+    - kladívko, kovadlinka, třmínek
+    - propojení s nosohltanem Eustachovou trubicí
+* vnitřní ucho - kost skalní
+* kostěný labyrint
+    - hlemýžď 2.5 závitu
+    - polokruhové kanálky
+    - vejčitý váček
+    - kulovitý váček
+* blanitý labyrint
+    - v kostěném labyrintu
+    - obklopen tekutinou
+    - obsahuje cortiho orgán
+
+###Vnímání zvuku
+* zvukové vlny - bubínek - kladívko, kovadlonka, třmínek, oválné okénko - perilymfa - endolmfa - krycí membrána - vláskové buňky cortiho orgánu - vznik vzruchu - sluchový nerv
+    - odeznění pohybu perilymfy - kulaté okénko
+* sluchové buňky rozlišují výšku tónů
+    - 20Hz - 20kHz
+
+
+###Poškození sluchového orgánu
+* snížená schopnost vnímat zvuky
+    - mazový uzávěr
+    - perforace bubínku
+    - středoušní záněty
+* vystavování se vysokým či intenzivním zvukovým hladinám
+    - degenerace citlivých buněk
+    - ve stáří mohou zanikat buňky vitlivé na vysoké tóny - omezená sluchových možností
+* VIII hlavový nerv, korové centrum - spánkový lalok mozkové kůry
+
+###Ústrojí statokinetické
+* je osučástí vnitřního ucha
+* vestibulární - rovnovážný orgán
+    - čidlo statické - pro vnímání polohy hlavy
+    - čidlo kinetické - pro vnímání pohybu hlavy
+    - kostěný labyrint - blanitý labyrint - lymfa
+
+##Ústrojí čichu
+* dutina nosní
+* čichová sliznice
+    - receptorové buňky s řasinkami
+    - receptorová místa pro molekuly látek
+    - buňky podpůrné - hlen
+* čichový bulbus
+* normální vdech - pár molekuk
+* při hladu se čich vylepšuje
+
+##Ústrojí chuti
+* jazyk, měkké patro, horní část hltanu
+* chuťové papily - různé typy
+* chuťové pohárky
+    - receptorové buňky s mikroklky
+    - nervová vlákna
+    - podpůrné buňky
+* 4 základní chutě - slaná, sladká, hořká, kyselá
+    - kombinace
+* škála chuťových odstínů
